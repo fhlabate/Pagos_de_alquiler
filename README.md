@@ -10,7 +10,8 @@
 - Los meses que menos pronto pagué, fueron 7, con 5 días de anticipo.
 
 ## Dashboard
-<iframe title="Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTk2NjNjNDItMjVkNC00OGFhLTk0ZGUtMjBkZjIwYmRiMGEwIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+![image](https://github.com/user-attachments/assets/c7458032-47a0-4293-be3a-0fb358d0a97c)
+[Link al dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk2NjNjNDItMjVkNC00OGFhLTk0ZGUtMjBkZjIwYmRiMGEwIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
 
 ## Desarrollo
 - Utilicé Python para extraer la información de .pdf, .jpg y .png.

@@ -2,12 +2,12 @@
 
 🏠 Estoy buscando piso, y si hay algo que deja a un/a propiteario/a tranquilo/a es que le paguen el alquiler a tiempo.
 
-📊 Creé un script en Python para procesar las transferencias de los últimos 59 meses de los pagos de mi alquiler y descubrir con cuantos días de anticipo hacía el pago con respecto a la fecha acordada (día 5 de cada mes).
+📊 Creé un script en Python para procesar las transferencias de los últimos 59 meses de pagos de mi alquiler y descubrir con cuantos días de anticipo hacía el depósito con respecto a la fecha acordada (día 5 de cada mes).
 
 ## Resultados
 - El promedio de pago anticipado histórico fue de 8 días.
 - El mes que más pronto pagué fue octubre del 2023 con 22 días de anticipo.
-- Los meses que menos pronto pagué, fueron 7, con 5 días de anticipo.
+- Los meses que menos pronto pagué fueron 7, con 5 días de anticipo.
 
 ## Dashboard (Clic en la imagen para interactuar)
 [![](https://github.com/user-attachments/assets/889674a1-9235-4226-8b08-0012b9610051)](https://app.powerbi.com/view?r=eyJrIjoiMzBlZjJkMzctNzFjZi00YWFjLWEzODQtNjY2NTdmNzZlOTkyIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)

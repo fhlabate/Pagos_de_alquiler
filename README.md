@@ -9,9 +9,8 @@
 - El mes que más pronto pagué fue octubre del 2023 con 22 días de anticipo.
 - Los meses que menos pronto pagué, fueron 7, con 5 días de anticipo.
 
-## Dashboard
-![image](https://github.com/user-attachments/assets/c7458032-47a0-4293-be3a-0fb358d0a97c)
-[Link al dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk2NjNjNDItMjVkNC00OGFhLTk0ZGUtMjBkZjIwYmRiMGEwIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
+## Dashboard (Clic en la imagen para ir interactuar)
+[](![image](https://github.com/user-attachments/assets/889674a1-9235-4226-8b08-0012b9610051)(https://app.powerbi.com/view?r=eyJrIjoiOTk2NjNjNDItMjVkNC00OGFhLTk0ZGUtMjBkZjIwYmRiMGEwIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9)
 
 ## Desarrollo
 - Utilicé Python para extraer la información de .pdf, .jpg y .png.

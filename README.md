@@ -22,6 +22,6 @@
 
 # Conclusiones
 Si tenés un piso en alquiler y buscas tranquilidad, contactame. 😜
-🌐[Linkedin](https://www.linkedin.com/in/fhlabate/)
-📧[Mail](fhlabate@gmail.com)
+- 🌐 [Linkedin](https://www.linkedin.com/in/fhlabate/)
+- 📧 [Mail](fhlabate@gmail.com)
 

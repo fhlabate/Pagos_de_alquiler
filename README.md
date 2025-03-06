@@ -1,6 +1,6 @@
 # Pagos de alquiler
 
-🏠 Estoy buscando piso, y si hay algo que deja a un/a propiteario/a tranquilo es que le paguen el alquiler a tiempo.
+🏠 Estoy buscando piso, y si hay algo que deja a un/a propiteario/a tranquilo/a es que le paguen el alquiler a tiempo.
 
 📊 Creé un script en Python para procesar las transferencias de los últimos 59 meses de los pagos de mi alquiler y descubrir con cuantos días de anticipo hacía el pago con respecto a la fecha acordada (día 5 de cada mes).
 

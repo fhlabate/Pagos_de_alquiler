@@ -21,7 +21,7 @@
 - pandas #Para manejar los datos en tablas.
 
 # Conclusiones
-Si tenés un piso en alquiler y buscas tranquilidad, contactame. 😜
+Si tenés un piso en alquiler en Barcelona o alrededores y buscas tranquilidad, contactame. 😜
 - 🌐 [Linkedin](https://www.linkedin.com/in/fhlabate/)
 - 📧 [Mail](fhlabate@gmail.com)
 

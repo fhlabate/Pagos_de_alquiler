@@ -14,7 +14,7 @@
 
 
 ## Desarrollo
-- Utilicé Python para extraer la información de .pdf, .jpg y .png.
+- Utilicé Python para extraer la información de los recibos en formato PDF, JPG y PNG.
 - Utilicé Power BI para hacer un dashboard sencillo que muestre los resultados.
 
 ### Librerías

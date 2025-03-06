@@ -10,8 +10,7 @@
 - Los meses que menos pronto pagué, fueron 7, con 5 días de anticipo.
 
 ## Desarrollo
-![Python](https://github.com/user-attachments/assets/5d17e8df-be26-4840-8559-152b20c40981)
-![Power BI](https://github.com/user-attachments/assets/bc86b3c8-a543-408e-92ce-7ea97e0e9742)
+![](https://github.com/user-attachments/assets/801dd3f4-309b-4379-8883-f3d9acf34402)
 
 - Utilicé Python para extraer la información de .pdf, .jpg y .png.
 - Utilicé Power BI para hacer un dashboard sencillo que muestre los resultados.

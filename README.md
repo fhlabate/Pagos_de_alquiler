@@ -9,6 +9,9 @@
 - El mes que más pronto pagué fue octubre del 2023 con 22 días de anticipo.
 - Los meses que menos pronto pagué, fueron 7, con 5 días de anticipo.
 
+## Dashboard
+<iframe title="Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTk2NjNjNDItMjVkNC00OGFhLTk0ZGUtMjBkZjIwYmRiMGEwIiwidCI6IjdlZDlkODIxLWIyNjUtNGZhMS04MTg2LTJkYmIzMjEwNWM3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Desarrollo
 - Utilicé Python para extraer la información de .pdf, .jpg y .png.
 - Utilicé Power BI para hacer un dashboard sencillo que muestre los resultados.
